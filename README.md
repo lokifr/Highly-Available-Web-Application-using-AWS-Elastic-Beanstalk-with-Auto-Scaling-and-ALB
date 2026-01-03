@@ -16,6 +16,9 @@ Elastic Beanstalk abstracts infrastructure management while internally using **E
 - CloudWatch metrics and alarms
 - Node.js web application
 
+  <img width="803" height="1024" alt="Untitled Diagram drawio (4)" src="https://github.com/user-attachments/assets/274c46d4-a24c-465a-8fdf-e15e007e6d03" />
+
+
 **Traffic Flow:**
 User → Application Load Balancer → EC2 Instances (Auto Scaling Group)
 
